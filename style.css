@@ -496,6 +496,7 @@ input[type="range"] {
     .playlist-container {
         border-radius: 12px;
         height: 40vh;
+         margin-top: -35px;
     }
     
     .player-top {
