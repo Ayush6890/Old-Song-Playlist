@@ -5,7 +5,7 @@
 }
 
 body {
-    min-height: 100vh;
+    height: 100vh;
     font-family: Arial, sans-serif;
     color: white;
 
@@ -470,8 +470,6 @@ input[type="range"] {
 
 @media (max-width: 600px) {
     main{
-        
-        
         display: flex;
         flex-direction: column;
     }
