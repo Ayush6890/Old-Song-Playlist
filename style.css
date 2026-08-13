@@ -510,9 +510,9 @@ input[type="range"] {
         gap: 20px;
     }
 
-    /* .text{
-        margin-bottom: 40px;
-    } */
+    .text{
+        margin-bottom: 30px;
+    }
     
     .player {
         width: 100%;
