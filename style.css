@@ -494,7 +494,7 @@ input[type="range"] {
     .playlist-container {
         border-radius: 12px;
         height: 40vh;
-        margin-top: 40px;
+        
        
     }
     
@@ -512,7 +512,10 @@ input[type="range"] {
     }
 
     .text{
-        margin-bottom: 10px;
+        margin-bottom: 22px;
+    }
+    .text h1{
+        font-size: 38px;
     }
     
     .player {
